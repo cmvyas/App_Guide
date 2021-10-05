@@ -2,28 +2,26 @@
 
 
 ## App Guide - An application for helping people to use the different apps easily!
+Hey guys, I am developing an android app to help people use different apps like Paytm, Ola, Uber, etc. As a huge number of people like many of our parents don't know how to operate all such apps, and they need to depend on us, to help them out I am developing an application in which there will be a pictorial guide for basic and needy operations like booking a cab, online payment, recharge, etc.
 
-Do your parents depend upon you to use daily life apps? 
+**For that, I Need A Proper Guide Manual.**
 
-Do your parents ask you to handle all the online payments, online bookings, orders? 
+Are you guys looking forward to contributing to this Hacktoberfest? Or start your journey for open-source contribution?
+Feel free to join, i have created a simple webpage for demo purpose, all you guys need to do is copy and paste that template in a folder and modify the content
 
-**Yes**, most of the people of our parent's generation are not comfortable using mobile apps, and handling online transactions,
-for people like them, I am building an app, a simple app to guide them step by step for basic needy operations.
+Every Contribution Means A Lot To Me.
 
-**For that, I need a proper guide manual.**
-
-Are you guys looking forward to contributing to this Hacktoberfest?                               Or start your journey for open-source contribution?
-If YES, feel free to join, every contribution means a lot to me!
 
 # INSTRUCTIONS -
 
 1. Create a folder of the name related to the issue (eg: mobile_recharge_paytm)
 2. Create a folder img to store your images and a file of .html type
 3. Copy and paste the code from the **index.html File**
-4. Modify the Steps and images according to your issue
-5. for demo check https://cmvyas.github.io/App_Guide/
-6. Commit your work
-7. Create a pull request
+4. Modify the Steps and images according to your issue ,for demo check [here](https://cmvyas.github.io/App_Guide/)
+5. Commit your work
+6. Create a pull request
+
+
 
 
 
