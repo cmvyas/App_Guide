@@ -19,9 +19,11 @@ If YES, feel free to join, every contribution means a lot to me!
 
 1. Create a folder of the name related to the issue (eg: mobile_recharge_paytm)
 2. Create a folder img to store your images and a file of .html type
-3. Copy and paste the code from the **Demo File**
+3. Copy and paste the code from the **index.html File**
 4. Modify the Steps and images according to your issue
-5. Create a pull request
+5. for demo check https://cmvyas.github.io/App_Guide/
+6. Commit your work
+7. Create a pull request
 
 
 
