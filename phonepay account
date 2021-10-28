@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="utf-8" />
+    <title>Helping Guide</title>
+    <style>
+      img {
+        height: 400px;
+        width: 400px;
+      }
+      li {
+        font-size: large;
+      }
+    </style>
+  </head>
+  <body style="font-family: 'Gemunu Libre', sans-serif">
+    <div style="display: flex; justify-content: center; align-items: center">
+      <div
+        style="
+          background: #e8fcff;
+          margin: 12px;
+          width: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        "
+      >
+        <div style="margin: 14px; width: 80%">
+          <h2
+            style="color: #3a6351; font-size: 40px; text-decoration: underline"
+          >
+            How to create account on phonepay -
+          </h2>
+          <h4>Follow these steps -</h4>
+          <ol>
+            <li> Download the app from the Google Play Store or Apple App Store.</li>
+            <li>After downloading the app, open the app and verify your mobile number. (Be sure that the mobile number you entered should be the same one registered with your bank account).</li>
+            <li>Enter all the required details (Name, email address and set your 4-digit password and activate your wallet.</li>
+            <li>Tap on creating new Virtual Private Address (VPA).</li>
+            <li> Select your bank account to link, the app will automatically fetch the details.</li>
+            <li>Confirm your bank details.</li>
+           
+          </ol>
+
+          <div>
+            <h3>Step 1.</h3>
+            <img src="./img/1.jpeg" />
+            <h3>Step 2.</h3>
+            <img src="./img/2.jpg" />
+            <h3>Step 3.</h3>
+            <img src="./img/3.jpg" />
+            <h3>Step 4.</h3>
+            <img src="./img/4.jpg" />
+            <h3>Step 5.</h3>
+            <img src="./img/5.jpg" />
+            <h3>Step 6.</h3>
+            <img src="./img/6.webp" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
