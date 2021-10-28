@@ -48,17 +48,16 @@
 
           <div>
             <h3>Step 1.</h3>
-            <img src="./img/1.jpeg" />
+            <img src="./pp1.jpg" />
             <h3>Step 2.</h3>
-            <img src="./img/2.jpg" />
-            <h3>Step 3.</h3>
-            <img src="./img/3.jpg" />
+            <img src="./pp2.jpg" />
+            
             <h3>Step 4.</h3>
-            <img src="./img/4.jpg" />
+            <img src="./pp4.jpg" />
             <h3>Step 5.</h3>
-            <img src="./img/5.jpg" />
+            <img src="./pp5.jpg" />
             <h3>Step 6.</h3>
-            <img src="./img/6.webp" />
+            <img src="./pp6.jpg" />
           </div>
         </div>
       </div>
